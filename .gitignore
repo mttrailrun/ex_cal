@@ -9,3 +9,4 @@ assets/photoshop/
 assets/Videos/
 !assets/Videos/tour_*.mp4
 access.log
+db_config.txt
