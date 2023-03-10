@@ -1,5 +1,5 @@
 
-The way to create remote repos
+##The way to create remote repos
 git remote add origin https://github.com/mttrailrun/ex_cal.git
 git branch -M main
 git push -u origin main
