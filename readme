@@ -4,3 +4,9 @@ git remote add origin https://github.com/mttrailrun/ex_cal.git
 git branch -M main
 git push -u origin main
 git remote -v
+## The way to pull remote branch to local 
+in local branch 
+git barnch -v(to check current barnch) ex main2
+git remote -v(to check remote branch)  ex origin
+git pull orign main
+remote origin main brach--> local branch main2
