@@ -10,3 +10,6 @@ git barnch -v(to check current barnch) ex main2
 git remote -v(to check remote branch)  ex origin
 git pull orign main
 remote origin main brach--> local branch main2
+11106pm/0309/2023
+##to switch the current local barnches from branchA to branchB 
+git checkout branchB
