@@ -27,3 +27,11 @@ To merge local main2 with main3
 > git merge main2 (merge current branch (main3) with main2 
 919pm/0311/2023
 928pm/0311/2023
+
+C:\Users\hohyunk\Documents\explore_california>git checkout -b hohyunk/git_tranning/branch1
+Switched to a new branch 'hohyunk/git_tranning/branch1'
+C:\Users\hohyunk\Documents\explore_california>git branch
+* hohyunk/git_tranning/branch1
+  main
+git add
+git commit -m "test pushing branch"
