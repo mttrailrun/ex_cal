@@ -13,3 +13,4 @@ remote origin main brach--> local branch main2
 11106pm/0309/2023
 ##to switch the current local barnches from branchA to branchB 
 git checkout branchB
+847pm/0311/2023
