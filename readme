@@ -26,3 +26,4 @@ To merge local main2 with main3
 > git checkout main3
 > git merge main2 (merge current branch (main3) with main2 
 919pm/0311/2023
+928pm/0311/2023
