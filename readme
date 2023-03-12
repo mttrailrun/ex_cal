@@ -28,11 +28,21 @@ To merge local main2 with main3
 919pm/0311/2023
 928pm/0311/2023
 
-C:\Users\hohyunk\Documents\explore_california>git checkout -b hohyunk/git_tranning/branch1
+## Create new branch "hohyunk/git_tranning/branch1" and modified readme file and push remote  
+>git checkout -b hohyunk/git_tranning/branch1
 Switched to a new branch 'hohyunk/git_tranning/branch1'
 C:\Users\hohyunk\Documents\explore_california>git branch
 * hohyunk/git_tranning/branch1
   main
-git add
-git commit -m "test pushing branch"
+--modified readme file --
+> git add
+> git commit -m "test pushing branch"
+--To push the current new branch and set the remote as upstream
+> git push --set-upstream origin  hohyunk/git_tranning/branch1
+> git push
+.......
+To https://github.com/mttrailrun/ex_cal.git
+   0aed145..d6dad6b  hohyunk/git_tranning/branch1 -> hohyunk/git_tranning/branch1
+........
+--- hohyunk/git_tranning/branch1 was created as remote branch. 
 1133pm/311/2023
