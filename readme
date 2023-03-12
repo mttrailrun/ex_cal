@@ -40,3 +40,8 @@ C:\Users\hohyunk\Documents\explore_california>git branch
 --To push the current new branch and set the remote as upstream
 > git push --set-upstream origin  hohyunk/git_tranning/branch1
 > git push
+.......
+To https://github.com/mttrailrun/ex_cal.git
+   0aed145..d6dad6b  hohyunk/git_tranning/branch1 -> hohyunk/git_tranning/branch1
+........
+--- hohyunk/git_tranning/branch1 was created as remote branch. 
